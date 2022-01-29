@@ -134,6 +134,7 @@ section{
     display: none;
 }
 .scroll-up-btn{
+    display: none;
     position: fixed;
     height: 45px;
     width: 42px;
